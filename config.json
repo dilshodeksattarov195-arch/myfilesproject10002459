@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productpalidate",
+        "uuid": 20943303,
+        "checksum": "b8guy"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
